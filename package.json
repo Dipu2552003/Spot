@@ -1,0 +1,19 @@
+{
+  "name": "wd-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "concurrently \"npm start --prefix frontend/\" \"nodemon backend/index.js\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@elastic/eui": "^88.0.0",
+    "axios": "^1.4.0",
+    "concurrently": "^8.2.0",
+    "react-icons": "^4.10.1",
+    "react-quill": "^2.0.0"
+  }
+}

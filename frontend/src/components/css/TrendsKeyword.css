@@ -1,0 +1,62 @@
+.keywords {
+    position: fixed;
+    top: 80px;
+    right: 0;
+    width: 25%;
+    padding: 20px 20px;
+  }
+ 
+  .keyword__heading {
+    font-size: 20px;
+    border-bottom: 1px solid #e6ecf0;
+    padding-bottom: 8px;
+  }
+
+  .keyword__name {
+    margin-bottom: 8px;
+  }
+  .keyword__tweets {
+    margin-top: 7px;
+    color: silver;
+    font-size: 14px;
+    font-weight: 300;
+  }
+
+  .keyword__heading {
+    font-size: 20px;
+    border-bottom: 1px solid #e6ecf0;
+    padding-bottom: 8px;
+  }
+
+  .country {
+    font-size: 14px;
+    color: silver;
+    font-weight: 300;
+    margin: 10px 0;
+  }
+
+  .keywords {
+    position: fixed;
+    top: 80px;
+    right: 0;
+    width: 25%;
+    padding: 20px 20px;
+  }
+  .key {
+    background: #f5f8fa;
+    padding: 15px;
+    border-radius: 5px;
+  }
+
+  .search {
+    font-size: 20px;
+    color: silver;
+  }
+
+  .keyword_img img{
+    margin-top: 10px;
+    width: 250px;
+   
+  }
+  
+  
