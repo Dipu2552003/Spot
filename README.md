@@ -13,8 +13,6 @@ Authenticate User can ask/edit/delete the question.
 Authenticate Users can answer/edit/delete their respective answers.
 
 
-![spot1](https://github.com/Dipu2552003/Spot/assets/101037704/3fbad612-de7c-4b03-a54b-3a0a0b67088d)
-
 Authenticate User and only the owner of the question can verify any particular answer.
 
 ![spot2](https://github.com/Dipu2552003/Spot/assets/101037704/dbe51ba7-3ed2-46ce-a175-1ba0c680002a)
